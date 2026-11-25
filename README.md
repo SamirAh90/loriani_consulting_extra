@@ -1,8 +1,10 @@
 # LoriAni Consulting
 
+Additional version with company information and adapted Instagram copy. The original design version is maintained separately in `SamirAh90/loriani_consulting`.
+
 A responsive Swedish consulting website based on the supplied black, ivory and champagne gold designs.
 
-**Public website:** https://samirah90.github.io/loriani_consulting/
+**Public website:** https://samirah90.github.io/loriani_consulting_extra/
 
 ## Pages
 
